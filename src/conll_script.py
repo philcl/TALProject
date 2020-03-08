@@ -4,7 +4,7 @@ Created on Thu Mar  5 12:12:21 2020
 
 @author: chlob
 """
-
+"""Ce script sert a formaté correctement le fichier ne_test.txt.ne.nltk.conll afin d'obtenir le mot tabulation et l'EN"""
 with open('../data/Data/ne_test.txt.ne.nltk.conll', 'r') as file:
     text = file.readlines()
     
