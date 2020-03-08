@@ -4,7 +4,7 @@ Created on Fri Mar  6 13:51:16 2020
 
 @author: chlob
 """
-
+""" Ce script sert à créer le fichier ne_test.txt.ne.lima cad le mot associé à son EN"""
 file = open("../data/Data/ne_test.txt.conllu", "r")
 
 text = ""
